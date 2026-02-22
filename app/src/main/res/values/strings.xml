@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Material 3 Demo</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_components">Components</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Welcome to Material 3 Demo!</string>
+    <string name="home_description">This app demonstrates all Material 3 components</string>
+    <string name="home_button_components">View all components</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    
+    <!-- Components Screen -->
+    <string name="components_title">Material 3 Components</string>
+    
+    <!-- Badge Section -->
+    <string name="badge_title">Badge &amp; BadgedBox</string>
+    <string name="badge_simple">Simple Badge</string>
+    <string name="badge_with_count">Badge with Count</string>
+    <string name="badge_on_icon">Badge on Icon</string>
+    
+    <!-- Buttons Section -->
+    <string name="buttons_title">Buttons</string>
+    <string name="button_filled">Filled Button</string>
+    <string name="button_tonal">Tonal Button</string>
+    <string name="button_outlined">Outlined Button</string>
+    <string name="button_text">Text Button</string>
+    <string name="button_elevated">Elevated Button</string>
+    
+    <!-- Card Section -->
+    <string name="card_title">Cards</string>
+    <string name="card_filled_title">Filled Card</string>
+    <string name="card_filled_content">This is a filled card with some example content.</string>
+    <string name="card_elevated_title">Elevated Card</string>
+    <string name="card_elevated_content">This is an elevated card with shadow.</string>
+    <string name="card_outlined_title">Outlined Card</string>
+    <string name="card_outlined_content">This is an outlined card with a border.</string>
+    
+    <!-- Checkbox Section -->
+    <string name="checkbox_title">Checkboxes</string>
+    <string name="checkbox_unchecked">Unchecked</string>
+    <string name="checkbox_checked">Checked</string>
+    <string name="checkbox_indeterminate">Indeterminate</string>
+    
+    <!-- Chips Section -->
+    <string name="chips_title">Chips</string>
+    <string name="chip_assist">Assist Chip</string>
+    <string name="chip_filter">Filter Chip</string>
+    <string name="chip_input">Input Chip</string>
+    <string name="chip_suggestion">Suggestion Chip</string>
+    
+    <!-- Date Picker Section -->
+    <string name="datepicker_title">Date Picker</string>
+    <string name="datepicker_show_button">Select date</string>
+    <string name="datepicker_selected_date">Selected date: %s</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_ok">OK</string>
+    
+    <!-- Divider Section -->
+    <string name="divider_title">Dividers</string>
+    
+    <!-- FAB Section -->
+    <string name="fab_title">Floating Action Buttons</string>
+    <string name="fab_small">Small FAB</string>
+    <string name="fab_regular">Regular FAB</string>
+    <string name="fab_large">Large FAB</string>
+    <string name="fab_extended">Extended FAB</string>
+    
+    <!-- Icon Button Section -->
+    <string name="icon_button_title">Icon Buttons</string>
+    <string name="icon_button_standard">Standard</string>
+    <string name="icon_button_filled">Filled</string>
+    <string name="icon_button_tonal">Tonal</string>
+    <string name="icon_button_outlined">Outlined</string>
+    
+    <!-- Linear Progress Section -->
+    <string name="linear_progress_title">Linear Progress Indicators</string>
+    <string name="linear_progress_determinate">Determinate</string>
+    <string name="linear_progress_indeterminate">Indeterminate</string>
+    
+    <!-- Circular Progress Section -->
+    <string name="circular_progress_title">Circular Progress Indicators</string>
+    
+    <!-- Menu Section -->
+    <string name="menu_title">Menus</string>
+    <string name="menu_show">Show Menu</string>
+    <string name="menu_option_1">Option 1</string>
+    <string name="menu_option_2">Option 2</string>
+    <string name="menu_option_3">Option 3</string>
+    
+    <!-- Radio Button Section -->
+    <string name="radio_button_title">Radio Buttons</string>
+    <string name="radio_option_1">Option 1</string>
+    <string name="radio_option_2">Option 2</string>
+    <string name="radio_option_3">Option 3</string>
+    
+    <!-- Slider Section -->
+    <string name="slider_title">Sliders</string>
+    <string name="slider_continuous">Continuous Slider</string>
+    <string name="slider_discrete">Discrete Slider</string>
+    <string name="slider_range">Range Slider</string>
+    
+    <!-- Snackbar Section -->
+    <string name="snackbar_title">Snackbar</string>
+    <string name="snackbar_show">Show Snackbar</string>
+    <string name="snackbar_message">This is a snackbar message</string>
+    <string name="snackbar_action">Action</string>
+    
+    <!-- Switch Section -->
+    <string name="switch_title">Switches</string>
+    <string name="switch_off">Switch OFF</string>
+    <string name="switch_on">Switch ON</string>
+    <string name="switch_label">Switch</string>
+    
+    <!-- Text Field Section -->
+    <string name="textfield_title">Text Fields</string>
+    <string name="textfield_filled">Filled Text Field</string>
+    <string name="textfield_outlined">Outlined Text Field</string>
+    <string name="textfield_label">Label</string>
+    <string name="textfield_placeholder">Placeholder</string>
+    <string name="textfield_helper">Helper text</string>
+    <string name="textfield_error">Error text</string>
+    
+    <!-- Time Picker Section -->
+    <string name="timepicker_title">Time Picker</string>
+    <string name="timepicker_show">Show Time Picker</string>
+    <string name="timepicker_show_button">Select time</string>
+    <string name="timepicker_selected_time">Selected time: %s</string>
+    <string name="timepicker_confirm">OK</string>
+    <string name="timepicker_dismiss">Cancel</string>
+    
+    <!-- Tooltip Section -->
+    <string name="tooltip_title">Tooltips</string>
+    <string name="tooltip_example">This is an example tooltip</string>
+    <string name="tooltip_button">Show Tooltip</string>
+    
+    <!-- FAB Section Extended -->
+    <string name="fab_section_title">Floating Action Button</string>
+    
+    <!-- Lazy Lists Section -->
+    <string name="lazy_lists_title">Lazy Lists</string>
+    <string name="lazy_item">Item</string>
+    
+    <!-- Navigation Bar Section -->
+    <string name="navigation_bar_title">Navigation Bar</string>
+    
+    <!-- Top App Bar Section -->
+    <string name="top_app_bar_title">Top App Bar</string>
+    
+    <!-- Search Bar Section -->
+    <string name="search_bar_title">Search Bar</string>
+    <string name="search_hint">Search…</string>
+    
+    <!-- Modal Bottom Sheet Section -->
+    <string name="modal_bottom_sheet_title">Modal Bottom Sheet</string>
+    <string name="modal_bottom_sheet_show">Show Bottom Sheet</string>
+    
+    <!-- Tabs Section -->
+    <string name="tabs_title">Tabs &amp; TabRow</string>
+    <string name="tab">Tab</string>
+    
+    <!-- Content Descriptions -->
+    <string name="cd_add">Add</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_info">Info</string>
+    <string name="cd_notifications">Notifications</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_check">Check</string>
+</resources>

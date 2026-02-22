@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Material 3 Demo</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Strona główna</string>
+    <string name="nav_components">Komponenty</string>
+    <string name="nav_settings">Ustawienia</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Witaj w Material 3 Demo!</string>
+    <string name="home_description">Ta aplikacja demonstruje wszystkie komponenty Material 3</string>
+    <string name="home_button_components">Zobacz wszystkie komponenty</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_title">Ustawienia</string>
+    
+    <!-- Components Screen -->
+    <string name="components_title">Komponenty Material 3</string>
+    
+    <!-- Badge Section -->
+    <string name="badge_title">Odznaki (Badge &amp; BadgedBox)</string>
+    <string name="badge_simple">Prosta odznaka</string>
+    <string name="badge_with_count">Odznaka z licznikiem</string>
+    <string name="badge_on_icon">Odznaka na ikonie</string>
+    
+    <!-- Buttons Section -->
+    <string name="buttons_title">Przyciski</string>
+    <string name="button_filled">Przycisk wypełniony</string>
+    <string name="button_tonal">Przycisk tonalny</string>
+    <string name="button_outlined">Przycisk z obramowaniem</string>
+    <string name="button_text">Przycisk tekstowy</string>
+    <string name="button_elevated">Przycisk podniesiony</string>
+    
+    <!-- Card Section -->
+    <string name="card_title">Karty</string>
+    <string name="card_filled_title">Karta wypełniona</string>
+    <string name="card_filled_content">To jest karta wypełniona z przykładową treścią.</string>
+    <string name="card_elevated_title">Karta podniesiona</string>
+    <string name="card_elevated_content">To jest karta podniesiona z cieniem.</string>
+    <string name="card_outlined_title">Karta z obramowaniem</string>
+    <string name="card_outlined_content">To jest karta z obramowaniem.</string>
+    
+    <!-- Checkbox Section -->
+    <string name="checkbox_title">Pola wyboru</string>
+    <string name="checkbox_unchecked">Niezaznaczone</string>
+    <string name="checkbox_checked">Zaznaczone</string>
+    <string name="checkbox_indeterminate">Nieokreślone</string>
+    
+    <!-- Chips Section -->
+    <string name="chips_title">Chipy</string>
+    <string name="chip_assist">Chip pomocniczy</string>
+    <string name="chip_filter">Chip filtrujący</string>
+    <string name="chip_input">Chip wejściowy</string>
+    <string name="chip_suggestion">Chip sugestii</string>
+    
+    <!-- Date Picker Section -->
+    <string name="datepicker_title">Wybór daty</string>
+    <string name="datepicker_show_button">Wybierz datę</string>
+    <string name="datepicker_selected_date">Wybrana data: %s</string>
+    <string name="button_cancel">Anuluj</string>
+    <string name="button_ok">OK</string>
+    
+    <!-- Divider Section -->
+    <string name="divider_title">Separatory</string>
+    
+    <!-- FAB Section -->
+    <string name="fab_title">Pływające przyciski akcji</string>
+    <string name="fab_small">Mały FAB</string>
+    <string name="fab_regular">Normalny FAB</string>
+    <string name="fab_large">Duży FAB</string>
+    <string name="fab_extended">Rozszerzony FAB</string>
+    
+    <!-- Icon Button Section -->
+    <string name="icon_button_title">Przyciski z ikoną</string>
+    <string name="icon_button_standard">Standardowy</string>
+    <string name="icon_button_filled">Wypełniony</string>
+    <string name="icon_button_tonal">Tonalny</string>
+    <string name="icon_button_outlined">Z obramowaniem</string>
+    
+    <!-- Linear Progress Section -->
+    <string name="linear_progress_title">Liniowe wskaźniki postępu</string>
+    <string name="linear_progress_determinate">Określony</string>
+    <string name="linear_progress_indeterminate">Nieokreślony</string>
+    
+    <!-- Circular Progress Section -->
+    <string name="circular_progress_title">Kołowe wskaźniki postępu</string>
+    
+    <!-- Menu Section -->
+    <string name="menu_title">Menu</string>
+    <string name="menu_show">Pokaż menu</string>
+    <string name="menu_option_1">Opcja 1</string>
+    <string name="menu_option_2">Opcja 2</string>
+    <string name="menu_option_3">Opcja 3</string>
+    
+    <!-- Radio Button Section -->
+    <string name="radio_button_title">Przyciski radiowe</string>
+    <string name="radio_option_1">Opcja 1</string>
+    <string name="radio_option_2">Opcja 2</string>
+    <string name="radio_option_3">Opcja 3</string>
+    
+    <!-- Slider Section -->
+    <string name="slider_title">Suwaki</string>
+    <string name="slider_continuous">Suwak ciągły</string>
+    <string name="slider_discrete">Suwak dyskretny</string>
+    <string name="slider_range">Suwak zakresowy</string>
+    
+    <!-- Snackbar Section -->
+    <string name="snackbar_title">Snackbar</string>
+    <string name="snackbar_show">Pokaż Snackbar</string>
+    <string name="snackbar_message">To jest wiadomość snackbar</string>
+    <string name="snackbar_action">Akcja</string>
+    
+    <!-- Switch Section -->
+    <string name="switch_title">Przełączniki</string>
+    <string name="switch_off">Przełącznik WYŁ.</string>
+    <string name="switch_on">Przełącznik WŁ.</string>
+    <string name="switch_label">Przełącznik</string>
+    
+    <!-- Text Field Section -->
+    <string name="textfield_title">Pola tekstowe</string>
+    <string name="textfield_filled">Wypełnione pole tekstowe</string>
+    <string name="textfield_outlined">Pole tekstowe z obramowaniem</string>
+    <string name="textfield_label">Etykieta</string>
+    <string name="textfield_placeholder">Tekst zastępczy</string>
+    <string name="textfield_helper">Tekst pomocniczy</string>
+    <string name="textfield_error">Tekst błędu</string>
+    
+    <!-- Time Picker Section -->
+    <string name="timepicker_title">Wybór czasu</string>
+    <string name="timepicker_show">Pokaż wybór czasu</string>
+    <string name="timepicker_show_button">Wybierz czas</string>
+    <string name="timepicker_selected_time">Wybrany czas: %s</string>
+    <string name="timepicker_confirm">OK</string>
+    <string name="timepicker_dismiss">Anuluj</string>
+    
+    <!-- Tooltip Section -->
+    <string name="tooltip_title">Podpowiedzi</string>
+    <string name="tooltip_example">To jest przykładowy tooltip</string>
+    <string name="tooltip_button">Pokaż podpowiedź</string>
+    
+    <!-- FAB Section Extended -->
+    <string name="fab_section_title">Pływający przycisk akcji</string>
+    
+    <!-- Lazy Lists Section -->
+    <string name="lazy_lists_title">Listy leniwe</string>
+    <string name="lazy_item">Element</string>
+    
+    <!-- Navigation Bar Section -->
+    <string name="navigation_bar_title">Pasek nawigacji</string>
+    
+    <!-- Top App Bar Section -->
+    <string name="top_app_bar_title">Górny pasek aplikacji</string>
+    
+    <!-- Search Bar Section -->
+    <string name="search_bar_title">Pasek wyszukiwania</string>
+    <string name="search_hint">Szukaj…</string>
+    
+    <!-- Modal Bottom Sheet Section -->
+    <string name="modal_bottom_sheet_title">Modalny dolny arkusz</string>
+    <string name="modal_bottom_sheet_show">Pokaż dolny arkusz</string>
+    
+    <!-- Tabs Section -->
+    <string name="tabs_title">Zakładki (Tabs &amp; TabRow)</string>
+    <string name="tab">Zakładka</string>
+    
+    <!-- Content Descriptions -->
+    <string name="cd_add">Dodaj</string>
+    <string name="cd_close">Zamknij</string>
+    <string name="cd_info">Informacja</string>
+    <string name="cd_notifications">Powiadomienia</string>
+    <string name="cd_search">Szukaj</string>
+    <string name="cd_check">Zaznacz</string>
+</resources>
